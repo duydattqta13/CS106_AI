@@ -1,1 +1,1 @@
-# CS106_AI
+# These are my all projects in CS106 - Artificial Intelligence

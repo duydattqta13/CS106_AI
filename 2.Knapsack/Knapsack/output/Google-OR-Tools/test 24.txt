@@ -1,0 +1,8 @@
+File name: data/03InverseStronglyCorrelated/n00050/R10000/s080.kp
+Execution time: 0.8587028980255127 sec
+Capacity = 140983 
+Total weight = 140934 
+Total value = 125934 
+Number of items: 15 
+Packed items: [3, 7, 8, 9, 10, 11, 14, 18, 22, 34, 38, 41, 42, 44, 48] 
+Packed weights: 15

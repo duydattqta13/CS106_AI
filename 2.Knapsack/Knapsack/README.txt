@@ -1,0 +1,2 @@
+-File zip bao gồm code python thực hiện và kết quả là folder output
+-link folder data(không chứa trong file zip vì kích thước quá lớn) thực hiện: https://github.com/likr/kplib
